@@ -2,9 +2,16 @@
 
 Definition of the visual identity including assets and usage primitives. Contains the logo, brand colors, mood board, and brand guidelines. The content is versioned to support stable distribution across all repos.
 
-## Primary color
+## Color palette — "Fresh Innovation"
 
-- **Brand Blue** — `#1F50CF`
+| Role | Color name | Hex |
+| --- | --- | --- |
+| Primary accent | Electric Cobalt Blue | `#1D4ED8` |
+| Supporting accent | Aurora Green | `#34D399` |
+| Primary canvas | Papyrus Cream | `#F8F4E6` |
+| Text & contrast | Slate Black | `#334155` |
+
+See the full [brand identity guidelines](guidelines/brand-identity-guidelines.md) for usage rules.
 
 ## Structure
 
@@ -29,7 +36,8 @@ Definition of the visual identity including assets and usage primitives. Contain
 
 ### Guidelines (`guidelines/`)
 
-- `brand-identity-guidelines.gdoc` — pointer to the Google Doc brand identity guidelines
+- `brand-identity-guidelines.md` — the well-structured brand identity guide (single source of truth)
+- `brand-identity-guidelines.pdf` — printable export of the guide
 
 ### Drafts (`drafts/`)
 
