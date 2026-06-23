@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-foundations/brand-kit",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Visual identity assets and usage primitives (logo, fonts, colors)."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-foundations/templates",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Shared neutral document templates that any repo can reuse."
+}

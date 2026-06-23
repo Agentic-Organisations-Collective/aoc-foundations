@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-foundations/schemas",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Validation schemas for structured artifacts used across repos."
+}

@@ -1,0 +1,19 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .: {}
+
+  packages/brand-kit: {}
+
+  packages/forms/member-application: {}
+
+  packages/schemas: {}
+
+  packages/taxonomies: {}
+
+  packages/templates: {}

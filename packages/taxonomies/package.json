@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-foundations/taxonomies",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Shared vocabularies and classification models used across the collective."
+}

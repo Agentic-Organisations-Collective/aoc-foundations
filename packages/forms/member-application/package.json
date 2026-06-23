@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-foundations/member-application-form",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Reusable membership application form template and field definitions."
+}
