@@ -37,7 +37,6 @@ See the full [brand identity guidelines](guidelines/brand-identity-guidelines.md
 ### Guidelines (`guidelines/`)
 
 - `brand-identity-guidelines.md` — the well-structured brand identity guide (single source of truth)
-- `brand-identity-guidelines.pdf` — printable export of the guide
 
 ### Drafts (`drafts/`)
 

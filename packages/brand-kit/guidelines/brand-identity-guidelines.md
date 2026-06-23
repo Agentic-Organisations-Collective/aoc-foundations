@@ -110,4 +110,3 @@ actions (e.g., "Join the Association" or "Submit an Abstract").
 | Logo on blue background | [`logo/orgos-collective-logo-blue.png`](../logo/orgos-collective-logo-blue.png) |
 | Logo on transparent background | [`logo/orgos-collective-logo-transparent.png`](../logo/orgos-collective-logo-transparent.png) |
 | Mood board | [`mood-board/orgos-collective-mood-board.png`](../mood-board/orgos-collective-mood-board.png) |
-| PDF export of this guide | [`guidelines/brand-identity-guidelines.pdf`](./brand-identity-guidelines.pdf) |
