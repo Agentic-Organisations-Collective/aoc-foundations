@@ -26,13 +26,13 @@ See the full [brand identity guidelines](guidelines/brand-identity-guidelines.md
 
 ### Logo (`logo/`)
 
-- `orgos-collective-logo.svg` — primary logo, scalable vector (preferred for all uses)
-- `orgos-collective-logo-blue.png` — raster logo on a solid blue background
-- `orgos-collective-logo-transparent.png` — raster logo on a transparent background
+- `agentic-organisations-collective-logo.svg` — primary logo, scalable vector (preferred for all uses)
+- `agentic-organisations-collective-logo-blue.png` — raster logo on a solid blue background
+- `agentic-organisations-collective-logo-transparent.png` — raster logo on a transparent background
 
 ### Mood board (`mood-board/`)
 
-- `orgos-collective-mood-board.png` — visual reference for tone and style
+- `agentic-organisations-collective-mood-board.png` — visual reference for tone and style
 
 ### Guidelines (`guidelines/`)
 

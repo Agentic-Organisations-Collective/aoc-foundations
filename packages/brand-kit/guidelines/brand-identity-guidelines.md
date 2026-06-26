@@ -1,8 +1,8 @@
-# OrgOS Collective — Brand Identity Guidelines
+# Agentic Organisations Collective — Brand Identity Guidelines
 
 _Official brand documentation for the non-profit association (Verein)._
 
-This guide is the single source of truth for the OrgOS Collective visual identity.
+This guide is the single source of truth for the Agentic Organisations Collective visual identity.
 All assets referenced here live alongside this document in the
 [`brand-kit`](../README.md) package.
 
@@ -19,7 +19,7 @@ All assets referenced here live alongside this document in the
 
 ## 1. Brand essence & positioning
 
-The **OrgOS Collective** is an agile, practitioner-driven non-profit association
+The **Agentic Organisations Collective** is an agile, practitioner-driven non-profit association
 (Verein) designed to bridge the gap between AI hype and enterprise reality. It
 functions as a collaborative "concept-hardening forge" where tech leaders
 stress-test next-generation automation and Software Factory architectures.
@@ -40,12 +40,12 @@ stress-test next-generation automation and Software Factory architectures.
 The logo abstracts complex network topologies into a streamlined, highly
 recognizable emblem.
 
-![OrgOS Collective logo](../logo/orgos-collective-logo.svg)
+![Agentic Organisations Collective logo](../logo/agentic-organisations-collective-logo.svg)
 
 - **Geometry:** Three primary nodes arranged in a stable triangle, symbolizing
   the foundational threshold of a resilient community network.
 - **The central "O":** Thick, organic, curved lines connect the three points and
-  intersect in the center to form an abstract letter **"O"** (for OrgOS).
+  intersect in the center to form an abstract letter **"O"** (for Organisations).
 - **Usage rule:** The mark is highly versatile and must always be usable in full
   monochrome (solid white on a dark background, or solid dark blue/black on a
   cream canvas).
@@ -74,7 +74,7 @@ portals, the entire type system relies strictly on open-source
 
 ### Primary display font: Kalam
 
-- **Application:** Main logo text ("ORGOS COLLECTIVE") and H1/H2 headings on
+- **Application:** Main logo text ("AGENTIC ORGANISATIONS COLLECTIVE") and H1/H2 headings on
   marketing or public-facing assets.
 - **Tone:** Eccentric, handwriting-inspired, and distinctly personal. It signals
   to incoming CTOs and architects that this is an authentic, practitioner-built
@@ -106,7 +106,7 @@ actions (e.g., "Join the Association" or "Submit an Abstract").
 
 | Asset | Path |
 | :-- | :-- |
-| Primary logo (vector) | [`logo/orgos-collective-logo.svg`](../logo/orgos-collective-logo.svg) |
-| Logo on blue background | [`logo/orgos-collective-logo-blue.png`](../logo/orgos-collective-logo-blue.png) |
-| Logo on transparent background | [`logo/orgos-collective-logo-transparent.png`](../logo/orgos-collective-logo-transparent.png) |
-| Mood board | [`mood-board/orgos-collective-mood-board.png`](../mood-board/orgos-collective-mood-board.png) |
+| Primary logo (vector) | [`logo/agentic-organisations-collective-logo.svg`](../logo/agentic-organisations-collective-logo.svg) |
+| Logo on blue background | [`logo/agentic-organisations-collective-logo-blue.png`](../logo/agentic-organisations-collective-logo-blue.png) |
+| Logo on transparent background | [`logo/agentic-organisations-collective-logo-transparent.png`](../logo/agentic-organisations-collective-logo-transparent.png) |
+| Mood board | [`mood-board/agentic-organisations-collective-mood-board.png`](../mood-board/agentic-organisations-collective-mood-board.png) |
