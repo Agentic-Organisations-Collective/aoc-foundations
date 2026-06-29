@@ -69,36 +69,39 @@ signals with warm, approachable community tones.
 ## 4. Typography stack
 
 To ensure global accessibility across open-source web assets and community
-portals, the entire type system relies strictly on open-source
-[Google Fonts](https://fonts.google.com/).
+portals, the type system relies on a **single open-source typeface**
+([Google Fonts](https://fonts.google.com/)) — one coherent voice, self-hosted.
 
-### Primary display font: Kalam
+### One-font system: Outfit
 
-- **Application:** Main logo text ("AGENTIC ORGANISATIONS COLLECTIVE") and H1/H2 headings on
-  marketing or public-facing assets.
-- **Tone:** Eccentric, handwriting-inspired, and distinctly personal. It signals
-  to incoming CTOs and architects that this is an authentic, practitioner-built
-  community rather than an anonymous corporate entity.
-- **Rule:** Use sparingly. Never use Kalam for blocks of text or subheadings
-  below H2.
+The brand uses **Outfit for everything** — display and text alike. Hierarchy and
+contrast come from **weight and scale**, not a second family. (A two-font pairing
+with a similar grotesk such as Inter or Hanken Grotesk was tested and rejected: the
+contrast against Outfit was too low to justify a second face.)
 
-### Primary body font: Montserrat
-
-- **Application:** Subheadings, paragraph text, code annotations, navigation
-  interfaces, and the core claim/tagline (_"driving next-gen automation, agentic
-  architectures, and enterprise governance"_).
-- **Tone:** Clean, geometric, hyper-legible, and modern. It anchors the eccentric
-  handwriting of Kalam back into a precise, engineering-driven reality.
+- **Tone:** Modern, geometric, and dynamic — clean, low-contrast letterforms with
+  even, friendly proportions. It signals to incoming CTOs and architects a
+  forward-looking, engineering-driven collective without corporate stiffness.
+- **Weight ladder:**
+  - **Bold 700** — the logo wordmark ("AGENTIC ORGANISATIONS COLLECTIVE"), H1/H2
+    headings, and high-impact calls to action.
+  - **Medium 500** — subheadings, navigation, and UI labels.
+  - **Regular 400** — paragraph / running text and the core claim/tagline
+    (_"driving next-gen automation, agentic architectures, and enterprise
+    governance"_).
+- **Self-hosting:** ship the woff2 files with the asset (latin subset) rather than
+  loading from a third-party CDN — keeps public pages GDPR-clean and offline-robust.
 
 ---
 
 ## 5. Visual applications & layout logic
 
 **The contrast rule:** When designing the public content area or the secure
-closed-members portal, always lead with structural clarity. Let **Montserrat** do
-90% of the heavy lifting for readability, using **Kalam** and **Electric Cobalt
-Blue** as deliberate, high-impact design accents to draw the eye to core community
-actions (e.g., "Join the Association" or "Submit an Abstract").
+closed-members portal, always lead with structural clarity. Let **Outfit Regular /
+Medium** do 90% of the heavy lifting for readability, using **Outfit Bold** (display
+headings, the wordmark) and **Electric Cobalt Blue** as deliberate, high-impact
+accents to draw the eye to core community actions (e.g., "Join the Association" or
+"Submit an Abstract").
 
 ---
 
