@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-foundations/messaging",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Canonical cross-channel messaging: claim, hero title, and boilerplate/abstract (DE + EN), reused across website, social, and press."
+}
