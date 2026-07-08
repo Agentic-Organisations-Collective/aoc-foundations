@@ -11,6 +11,7 @@ of maintaining its own copy. Bilingual: German and English are kept in sync.
 ## Contents
 
 - `messaging.md` — the canonical strings: name, claim, hero title, and abstract/boilerplate (DE + EN).
+- `issues.md` — open normalization/review points (kept out of the content file).
 
 ## Consumers
 
