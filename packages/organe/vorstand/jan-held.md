@@ -1,0 +1,14 @@
+# Jan Held
+
+**Organ:** Vorstand — Schatzmeister
+**LinkedIn:** https://www.linkedin.com/in/janheld/
+
+## Abstract (DE)
+
+Gründungsmitglied und Contributor. Co-Founder & CTO der Haruto GmbH, arbeitet an
+Software Factory / FactoryOS und organisationalen Agenten-Systemen.
+
+## Abstract (EN)
+
+Gründungsmitglied und Contributor. Co-Founder & CTO der Haruto GmbH, arbeitet an
+Software Factory / FactoryOS und organisationalen Agenten-Systemen.
