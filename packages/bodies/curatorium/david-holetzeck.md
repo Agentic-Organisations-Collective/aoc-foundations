@@ -1,6 +1,6 @@
 # David Holetzeck
 
-**Organ:** Kuratorium
+**Body:** Curatorium (Kuratorium)
 **LinkedIn:** https://www.linkedin.com/in/david-holetzeck/
 
 ## Abstract (DE)

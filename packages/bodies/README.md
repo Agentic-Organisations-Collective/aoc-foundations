@@ -1,15 +1,15 @@
-# organe
+# bodies
 
-Canonical roster of the association's bodies — one small Markdown profile per
-person (name, role, LinkedIn, short bio DE + EN, image reference). The people
-counterpart to `messaging` (verbal identity) and `brand-kit` (visual identity):
-who represents the collective, kept in one place instead of being re-typed on
-the website, in press material, or on event programs.
+Canonical roster of the association's governing bodies — one small Markdown
+profile per person (name, role, LinkedIn, short bio DE + EN, image reference).
+The people counterpart to `messaging` (verbal identity) and `brand-kit` (visual
+identity): who represents the collective, kept in one place instead of being
+re-typed on the website, in press material, or on event programs.
 
 ## Contents
 
-- `vorstand/` — the three board members (Vorsitz, Stellv. Vorsitz, Schatzmeister)
-- `kuratorium/` — curatorium members (advisory body, § 10 Satzung)
+- `board/` — the three board members (Vorstand: chair, deputy chair, treasurer)
+- `curatorium/` — curatorium members (Kuratorium; advisory body, § 10 Satzung)
 - `issues.md` — open points (missing images, unconfirmed details)
 
 ## Consumers

@@ -1,6 +1,6 @@
 # Matthias Herbert
 
-**Organ:** Kuratorium (für das Mitglied Obvious Works GmbH)
+**Body:** Curatorium (Kuratorium) — for member Obvious Works GmbH
 **LinkedIn:** https://www.linkedin.com/in/matthiasherbert/
 
 ## Abstract (DE)

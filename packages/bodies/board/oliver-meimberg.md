@@ -1,6 +1,6 @@
 # Oliver Meimberg
 
-**Organ:** Vorstand — Stellvertretender Vorsitz
+**Body:** Board (Vorstand) — Deputy Chair
 **LinkedIn:** https://www.linkedin.com/in/olivermeimberg/
 
 ## Abstract (DE)

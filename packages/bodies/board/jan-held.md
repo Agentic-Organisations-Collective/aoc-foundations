@@ -1,6 +1,6 @@
 # Jan Held
 
-**Organ:** Vorstand — Schatzmeister
+**Body:** Board (Vorstand) — Treasurer
 **LinkedIn:** https://www.linkedin.com/in/janheld/
 
 ## Abstract (DE)

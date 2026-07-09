@@ -1,6 +1,6 @@
 # Andreas Behrens
 
-**Organ:** Kuratorium
+**Body:** Curatorium (Kuratorium)
 **LinkedIn:** https://www.linkedin.com/in/andreas-behrens/
 
 ## Abstract (DE)

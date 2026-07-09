@@ -1,6 +1,0 @@
-{
-  "name": "@aoc-foundations/organe",
-  "private": true,
-  "version": "0.0.0",
-  "description": "Canonical roster of the association's bodies (Vorstand, Kuratorium) — one profile per person, reused across website, press, and event programs."
-}

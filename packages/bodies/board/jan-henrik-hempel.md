@@ -1,6 +1,6 @@
 # Jan-Henrik Hempel
 
-**Organ:** Vorstand — Vorsitz
+**Body:** Board (Vorstand) — Chair
 **LinkedIn:** https://www.linkedin.com/in/janhenrikhempel/
 
 ## Abstract (DE)
