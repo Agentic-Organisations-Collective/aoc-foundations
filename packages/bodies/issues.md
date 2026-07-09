@@ -1,8 +1,5 @@
-# Organe — offene Punkte
+# Bodies — offene Punkte
 
-- **Bilder fehlen für alle sechs Personen.** Aktuell nur Text; Portraitfotos
-  müssen noch beschafft und referenziert werden (Speicherort/Konvention noch
-  offen — vermutlich analog `brand-kit/logo` als Binärablage in diesem Package).
 - **Andreas Behrens' LinkedIn-Profil** (`linkedin.com/in/andreas-behrens/`) ist
   über Namens-/Firmenabgleich (Future Prof AI, Berlin) plausibilisiert, aber
   nicht durch die Person selbst bestätigt.

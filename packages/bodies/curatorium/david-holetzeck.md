@@ -2,6 +2,7 @@
 
 **Body:** Curatorium (Kuratorium)
 **LinkedIn:** https://www.linkedin.com/in/david-holetzeck/
+**Image:** ../portraits/david-holetzeck.jpg
 
 ## Abstract (DE)
 

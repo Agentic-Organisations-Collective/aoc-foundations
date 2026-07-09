@@ -10,7 +10,8 @@ re-typed on the website, in press material, or on event programs.
 
 - `board/` — the three board members (Vorstand: chair, deputy chair, treasurer)
 - `curatorium/` — curatorium members (Kuratorium; advisory body, § 10 Satzung)
-- `issues.md` — open points (missing images, unconfirmed details)
+- `portraits/` — portrait images, one per person, filename = profile slug
+- `issues.md` — open points (unconfirmed details)
 
 ## Consumers
 

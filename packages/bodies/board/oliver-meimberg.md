@@ -2,6 +2,7 @@
 
 **Body:** Board (Vorstand) — Deputy Chair
 **LinkedIn:** https://www.linkedin.com/in/olivermeimberg/
+**Image:** ../portraits/oliver-meimberg.jpg
 
 ## Abstract (DE)
 

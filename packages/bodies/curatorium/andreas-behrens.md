@@ -2,6 +2,7 @@
 
 **Body:** Curatorium (Kuratorium)
 **LinkedIn:** https://www.linkedin.com/in/andreas-behrens/
+**Image:** ../portraits/andreas-behrens.jpg
 
 ## Abstract (DE)
 

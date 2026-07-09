@@ -2,6 +2,7 @@
 
 **Body:** Curatorium (Kuratorium) — for member Obvious Works GmbH
 **LinkedIn:** https://www.linkedin.com/in/matthiasherbert/
+**Image:** ../portraits/matthias-herbert.png
 
 ## Abstract (DE)
 

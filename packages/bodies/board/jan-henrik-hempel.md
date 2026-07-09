@@ -2,6 +2,7 @@
 
 **Body:** Board (Vorstand) — Chair
 **LinkedIn:** https://www.linkedin.com/in/janhenrikhempel/
+**Image:** ../portraits/jan-henrik-hempel.png
 
 ## Abstract (DE)
 
