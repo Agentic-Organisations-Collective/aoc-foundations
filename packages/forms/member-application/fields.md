@@ -26,8 +26,6 @@ Labels are given in German (primary) and English, because the website is bilingu
 | `github_username` | GitHub-Benutzername | GitHub username | text | no | optional onboarding into the members team |
 | `public_naming` | Veröffentlichung der Mitgliedschaft | Publication of membership | choice | yes | § 4 (7) statutes — consent, see below |
 | `message` | Fragen oder Anmerkungen | Questions or remarks | textarea | no | lets an applicant ask instead of writing a separate mail |
-| `confirm_conduct` | Bestätigung Verhaltensgrundsätze | Confirmation of the code of conduct | checkbox | yes | § 4 (6) statutes |
-| `confirm_accuracy` | Bestätigung der Angaben | Confirmation of accuracy | checkbox | yes | § 4 (5) — application in text form |
 
 ### Choice values
 
@@ -68,8 +66,8 @@ Labels are given in German (primary) and English, because the website is bilingu
   prior to, and performance of, the membership relationship). It is **not** based on
   consent, so no consent may be requested for it.
 - **Consent applies to one field only.** `public_naming` implements § 4 (7) of the
-  statutes and is a genuine consent: it must be given separately, must not be bundled
-  with the other confirmations, and can be withdrawn at any time in text form.
+  statutes and is a genuine consent: it must be given separately and can be withdrawn
+  at any time in text form.
 - **Information duty.** The form must link to the privacy notice and state the purpose,
   the controller and the retention period at the point of collection (Art. 13 GDPR).
 - **Storage.** Applications are stored board-only. Personal data must not reach public
