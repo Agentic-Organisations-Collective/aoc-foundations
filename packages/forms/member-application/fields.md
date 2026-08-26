@@ -31,6 +31,14 @@ Labels are given in German (primary) and English, because the website is bilingu
 | `public_naming`               | Veröffentlichung der Mitgliedschaft | Publication of membership            | choice   | yes             | § 4 (7) statutes — consent, see below                    |
 | `message`                     | Fragen oder Anmerkungen             | Questions or remarks                 | textarea | no              | lets an applicant ask instead of writing a separate mail |
 
+**Profile links are all optional.** `github_username`, `linkedin_url` and `website_url`
+are never required. The minutes of 2026-08-26 read inconsistently on LinkedIn — one
+passage counts it among the minimum data, another states that the additional link
+fields are not mandatory. The board confirmed the optional reading: § 3 (2) of the
+admission rules asks for name and contact details, not for a presence on any platform,
+and requiring one would exclude applicants from research or public administration who
+have none.
+
 ### Choice values
 
 `membership_type`
