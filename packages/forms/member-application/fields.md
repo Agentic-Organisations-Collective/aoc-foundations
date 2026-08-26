@@ -14,18 +14,22 @@ Submitted applications are stored board-only and never in this repository.
 Labels are given in German (primary) and English, because the website is bilingual.
 `key` is the stable identifier used by consuming systems.
 
-| key | Label (DE) | Label (EN) | Type | Required | Basis |
-| --- | --- | --- | --- | --- | --- |
-| `name` | Name | Name | text | yes | identifies the applicant |
-| `email` | E-Mail | Email | email | yes | § 5 (3) decision is sent in text form |
-| `membership_type` | Art der Mitgliedschaft | Type of membership | choice | yes | § 4 (1)–(3) statutes |
-| `organisation_name` | Organisation | Organisation | text | if organisation | § 4 (2) statutes |
-| `organisation_representative` | Benannte Person | Designated person | text | if organisation | § 4 (2) — exercises the membership rights |
-| `organisation_category` | Größe / Art der Organisation | Organisation size / type | choice | if organisation | fee bracket per contribution schedule |
-| `relation` | Fachlicher oder praktischer Bezug | Professional or practical connection | textarea | yes | § 4 (4) statutes — core admission criterion |
-| `github_username` | GitHub-Benutzername | GitHub username | text | no | optional onboarding into the members team |
-| `public_naming` | Veröffentlichung der Mitgliedschaft | Publication of membership | choice | yes | § 4 (7) statutes — consent, see below |
-| `message` | Fragen oder Anmerkungen | Questions or remarks | textarea | no | lets an applicant ask instead of writing a separate mail |
+| key                           | Label (DE)                          | Label (EN)                           | Type     | Required        | Basis                                                    |
+| ----------------------------- | ----------------------------------- | ------------------------------------ | -------- | --------------- | -------------------------------------------------------- |
+| `name`                        | Name                                | Name                                 | text     | yes             | identifies the applicant                                 |
+| `email`                       | E-Mail                              | Email                                | email    | yes             | § 5 (3) decision is sent in text form                    |
+| `postal_address`              | Anschrift                           | Postal address                       | textarea | yes             | § 3 (2) admission rules — identifies the applicant; board decision 2026-08-26 |
+| `phone`                       | Telefon                             | Phone                                | tel      | yes             | § 3 (2) admission rules — contact details; basis for the welcome call |
+| `membership_type`             | Art der Mitgliedschaft              | Type of membership                   | choice   | yes             | § 4 (1)–(3) statutes                                     |
+| `organisation_name`           | Organisation                        | Organisation                         | text     | if organisation | § 4 (2) statutes                                         |
+| `organisation_representative` | Benannte Person                     | Designated person                    | text     | if organisation | § 4 (2) — exercises the membership rights                |
+| `organisation_category`       | Größe / Art der Organisation        | Organisation size / type             | choice   | if organisation | fee bracket per contribution schedule                    |
+| `relation`                    | Fachlicher oder praktischer Bezug   | Professional or practical connection | textarea | yes             | § 4 (4) statutes — core admission criterion; also carries the motivation and intended contribution |
+| `github_username`             | GitHub-Benutzername                 | GitHub username                      | text     | no              | optional onboarding into the members team                |
+| `linkedin_url`                | LinkedIn-Profil                     | LinkedIn profile                     | url      | no              | board decision 2026-08-26 — networking and the member portrait series |
+| `website_url`                 | Website                             | Website                              | url      | no              | board decision 2026-08-26 — website of the person or organisation |
+| `public_naming`               | Veröffentlichung der Mitgliedschaft | Publication of membership            | choice   | yes             | § 4 (7) statutes — consent, see below                    |
+| `message`                     | Fragen oder Anmerkungen             | Questions or remarks                 | textarea | no              | lets an applicant ask instead of writing a separate mail |
 
 ### Choice values
 
@@ -56,7 +60,6 @@ Labels are given in German (primary) and English, because the website is bilingu
 
 | Not asked | Why |
 | --- | --- |
-| Postal address | Only needed to invoice dues, i.e. **after** admission. Collecting it up front would store the address of every rejected applicant for no purpose. |
 | Exact headcount | The contribution schedule only distinguishes brackets, so the bracket is sufficient. |
 | Date of birth, bank details | Not required for the admission decision. Payment data is handled separately and never in a repository. |
 
@@ -75,6 +78,12 @@ Labels are given in German (primary) and English, because the website is bilingu
   limited to what § 4 (7) allows.
 - **Retention.** Rejected applications are deleted once the decision is final; only the
   record needed to evidence the decision is kept. The board sets the concrete period.
+- **Rejected applications carry contact data that has lost its purpose.** Since
+  2026-08-26 the form asks for the postal address and phone number up front, so a
+  rejected application holds data the association has no further use for. The evidence
+  record kept under *Retention* must therefore be reduced to what proves the decision —
+  applicant, date, outcome, deciding board members — and must **not** retain address,
+  phone, or the free-text fields. Deletion has to be demonstrable, not merely intended.
 - **Minimisation applies to the free-text fields too.** `relation` and `message` should
   not invite applicants to volunteer more personal detail than the criteria require.
 
