@@ -1,33 +1,34 @@
-# aoc-foundations — Arbeitsanweisungen
+# aoc-foundations — Operating Instructions
 
-## Aufgaben sind GitHub Issues
+## Tasks Are GitHub Issues
 
-Beschluss der Vorstandssitzung vom 2026-08-26: **To-dos entstehen als Issue in diesem
-Repo** — nicht als Markdown-Liste, nicht in einer externen To-do-App. Wer eine Aufgabe
-identifiziert, legt sie an, statt sie in eine Datei zu schreiben.
+Resolution of the 2026-08-26 board meeting: **to-dos are created as an issue in this
+repo** — not as a markdown list, not in an external to-do app. Whoever identifies a
+task creates it directly, instead of writing it into a file.
 
-Hierher gehören: die wiederverwendbaren Bausteine selbst — Brand-Kit, kanonische
-Feldliste des Mitgliedsantrags, Templates, Schemas, Taxonomien, Gremienprofile. Wie ein
-Formular umgesetzt wird → `aoc-website`. *Dass* der Mitgliederprozess so läuft, ist
-Management → `aoc-board`.
+Belongs here: the reusable building blocks themselves — brand kit, the canonical field
+list of the membership application, templates, schemas, taxonomies, body profiles. How
+a form is implemented → `aoc-website`. *That* the membership process runs this way is
+management → `aoc-board`.
 
-**Dieses Repo ist öffentlich.** Was nicht für die Öffentlichkeit bestimmt ist, gehört
-auch nicht in einen Issue-Text hier.
+**This repo is public.** Whatever isn't meant for the public also doesn't belong in an
+issue text here.
 
-Ein Issue nennt Anlass, konkrete Aufgabe und Voraussetzungen. Owner wird zugewiesen, wer
-die Aufgabe übernommen hat — bei unklarer Übernahme lieber niemand als der Falsche.
-Aufgaben aus einer Sitzung tragen `sitzung:<YYYY-MM-DD>` und verweisen im Fußtext auf
-das Protokoll.
+An issue names the occasion, the concrete task, and the preconditions. The owner
+assigned is whoever took on the task — when unclear, better nobody than the wrong
+person. Tasks from a meeting carry `sitzung:<YYYY-MM-DD>` and reference the minutes in
+the footer.
 
-Wo Feldliste, Web-Formular und Issue-Vorlage gemeinsam geändert werden müssen,
-verweisen die Issues repo-übergreifend aufeinander, statt dupliziert zu werden.
+Where the field list, web form, and issue template must be changed together, the
+issues reference each other across repos instead of being duplicated.
 
-Das gilt neben den Content-Konventionen unten: Offenes zu einer Content-Datei kommt
-weiterhin in die `issues.md` daneben — eine *Aufgabe* wird daraus erst als GitHub Issue.
+This applies alongside the content conventions below: open points on a content file
+still go into the `issues.md` next to it — it only becomes a *task* once it's a GitHub
+issue.
 
-## Content-Konventionen
+## Content Conventions
 
-- **Content-Markdown = nur Content.** Content-Dateien (Boilerplate, Messaging, Copy)
-  enthalten ausschließlich die Texte — keine Intros, Provenance, Erklärungen oder offene
-  Punkte. Offenes/Meta kommt in eine `issues.md` neben die Content-Datei. READMEs dürfen
-  erklären.
+- **Content markdown = content only.** Content files (boilerplate, messaging, copy)
+  contain exclusively the texts — no intros, provenance, explanations, or open points.
+  Open points/meta go into an `issues.md` next to the content file. READMEs may
+  explain.
