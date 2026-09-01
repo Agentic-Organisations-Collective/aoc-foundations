@@ -17,6 +17,15 @@ without importing their own permission model.
 Shared read across repos. This repo should only contain things that can be
 shared without crossing a permission boundary.
 
+## Language
+
+**Everything in this repository is written in English** — documentation, file names,
+issues, pull requests and commit messages. That holds regardless of the language you
+speak with your AI agent; working in German is fine, committing German is not.
+
+Exceptions and full rule:
+[CONTRIBUTING.md](./CONTRIBUTING.md#language-this-repository-is-english).
+
 ## Tasks
 
 **To-dos are GitHub issues in this repository** — not markdown checklists, not an
