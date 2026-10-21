@@ -7,6 +7,9 @@ without importing their own permission model.
 ## Packages
 
 - `brand-kit` — visual identity assets and usage primitives
+- `messaging` — canonical verbal identity (name, claim, boilerplate)
+- `legal-info` — canonical register/legal identity data (seat, register court and
+  number, representation, board)
 - `forms/member-application` — reusable membership application form template
 - `templates` — shared neutral document templates
 - `schemas` — validation schemas for structured artifacts

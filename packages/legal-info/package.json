@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-foundations/legal-info",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Canonical register/legal identity data: legal name, seat, register court and number, representation, board — reused for the website Impressum and official correspondence."
+}
